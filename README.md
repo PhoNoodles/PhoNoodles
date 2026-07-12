@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Rio 👋
 
-<!--
-**PhoNoodles/PhoNoodles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer focused on backend systems, AI applications, and production-ready APIs.
 
-Here are some ideas to get you started:
+## Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building APIs with Python and FastAPI
+- Learning authentication, authorization, middleware, and testing
+- Developing AI-powered business software
+- Improving my backend and system design skills
+
+## Technologies
+
+- Python
+- FastAPI
+- TypeScript
+- React
+- Next.js
+- PostgreSQL
+- Supabase
+- AWS
+- Docker
+- Git and GitHub
+
+## Featured project
+
+### FastAPI Learning
+
+A backend API project where I am practicing typed endpoints, validation, database integration, testing, and production engineering patterns.
+
+[View the repository](https://github.com/PhoNoodles/fastapi-learning)
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/rio-le/)
