@@ -16,7 +16,7 @@ I turn complex business problems into reliable software — from enterprise inte
 
 ## 🧭 A little about me
 
-- 🏢 **Previously:** Senior Technical Consultant working on enterprise SAP systems, integrations, and production support.
+- 🏢 **Previously:** SAP Technical Consultant working on enterprise SAP systems, integrations, and production support.
 - 🧑‍💻 **Now:** Building production applications and sharpening my Python backend and AI engineering skills.
 - 🧠 **Interested in:** Backend engineering, APIs, distributed systems, developer tooling, and practical AI.
 - 🌲 **Based in:** Portland, Oregon.
