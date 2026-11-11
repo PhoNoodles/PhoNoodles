@@ -2,7 +2,7 @@
 
 # Hey, I'm Rio 👋
 
-### Software Engineer · Backend & AI · Building products that ship
+### SAP ABAP Developer and Integrations · Software Engineer · Backend 
 
 I turn complex business problems into reliable software — from enterprise integrations to production web platforms.
 
