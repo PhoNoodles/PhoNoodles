@@ -4,7 +4,7 @@
 
 ### SAP ABAP Developer and Integrations · Software Engineer · Backend 
 
-I turn complex business problems into reliable software — from enterprise integrations to production web platforms.
+Enterprise integrations to production web platforms.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rio-le/)
 [![Portfolio](https://img.shields.io/badge/Everwood-See_What_I_Build-183153?style=for-the-badge&logo=github&logoColor=white)](https://everwoodbookings.com/)
